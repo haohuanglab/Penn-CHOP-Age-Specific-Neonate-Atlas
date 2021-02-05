@@ -1,4 +1,4 @@
-# Penn-CHOP-Age-Specific-Neonate-Atlas
+# Penn-CHOP Age-Specific Neonate Atlas
 The Penn-CHOP age-specific neonate atlas package developed by Hao Huang lab includes volume image of atlas labels, DTI fractional anisotropy (FA) map, DTI orientation-encoded colormap (OEC) and mean diffusivity (MD) map for the human neonate brains at 33, 36 and 39 postmenstrual weeks (PMW) at scan. All maps and atlas labels are in the template space and have the same dimension and resolution with details below. 
          
 Image dimension of DTI maps and atlas labels of all PMW: 180x220x180;
